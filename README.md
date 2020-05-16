@@ -3,4 +3,4 @@ This repository will contain my exercises for the [Full Stack Open](fullstackope
 ## Time spent
 - Part 0: 1hr
 - Part 1:
-    - a. Introduction to React: .25hr 
+    - a. Introduction to React: 2hr 
