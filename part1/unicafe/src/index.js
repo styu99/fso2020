@@ -30,6 +30,8 @@ const Statistic = ({ label, value, end}) => {
 
 
 
+
+
 const Statistics = ({ good, bad, neutral }) => {
   let sum = good + bad + neutral
 
