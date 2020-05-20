@@ -8,4 +8,5 @@ This repository will contain my exercises for the [Full Stack Open](fullstackope
     - c. Component state, event handlers: 1.5hr
     - d. far too long, like 5hrs LMAO
 - Part 2:
-    - a.Rendering a collection, modules: 1.5hr
+    - a. Rendering a collection, modules: 1.5hr
+    - b. Forms: 3.5hrs
