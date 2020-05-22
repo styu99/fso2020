@@ -10,3 +10,4 @@ This repository will contain my exercises for the [Full Stack Open](fullstackope
 - Part 2:
     - a. Rendering a collection, modules: 1.5hr
     - b. Forms: 3.5hrs
+    - c. Getting data from server: 3hrs
